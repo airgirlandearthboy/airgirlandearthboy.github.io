@@ -1,1 +1,7 @@
-# airgirlandearthboy.github.io
+# Airgirl and Earthboy
+
+Help Airgirl and Earthboy escape the pipes! Airgirl is controlled by using the WASD keys, and Earthboy is controlled by using the arrow keys.
+
+- **Move forwards (right on screen)**: `D` for Airgirl, `right arrow` for Earthboy
+- **Move backward (left on screen)**: `A` for Airgirl, `left arrow` for Earthboy
+- **Jum forwards**: `W` for Airgirl, `up arrow` for Earthboy
