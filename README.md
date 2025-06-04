@@ -1,4 +1,4 @@
-# Airgirl and Earthboy
+# [Airgirl and Earthboy](https://airgirlandearthboy.github.io/)
 
 ![Hackatime Badge](https://hackatime-badge.hackclub.com/U07DMCJTB8Q/airgirlandearthboy)
 
